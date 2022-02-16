@@ -55,8 +55,8 @@ Further analysis could yield insights on how to make a film studio produce multi
 See the full analysis in the notebook, or view the associated presentation.
 
 ## Repository Structure
-[Data](https://github.com/acollins28/microsoft_films/tree/main/Microsoft_Project/Data)
-[Images](https://github.com/acollins28/microsoft_films/tree/main/Microsoft_Project/Images)
-[Presentation](https://github.com/acollins28/microsoft_films/blob/main/Microsoft_Project/Presentation.pdf)
+[Data](https://github.com/acollins28/microsoft_films/tree/main/Microsoft_Project/Data) <br />
+[Images](https://github.com/acollins28/microsoft_films/tree/main/Microsoft_Project/Images) <br />
+[Presentation](https://github.com/acollins28/microsoft_films/blob/main/Microsoft_Project/Presentation.pdf) <br />
 [Notebook](https://github.com/acollins28/microsoft_films/blob/main/Microsoft_Project/movie_analysis.ipynb)
 
