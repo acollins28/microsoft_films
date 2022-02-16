@@ -56,5 +56,7 @@ See the full analysis in the notebook, or view the associated presentation.
 
 ## Repository Structure
 [Data](https://github.com/acollins28/microsoft_films/tree/main/Microsoft_Project/Data)
-[Images](
+[Images](https://github.com/acollins28/microsoft_films/tree/main/Microsoft_Project/Images)
+[Presentation](https://github.com/acollins28/microsoft_films/blob/main/Microsoft_Project/Presentation.pdf)
+[Notebook](https://github.com/acollins28/microsoft_films/blob/main/Microsoft_Project/movie_analysis.ipynb)
 
