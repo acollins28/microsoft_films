@@ -52,7 +52,7 @@ Further analysis could yield insights on how to make a film studio produce multi
 
 ## For more information
 
-See the full analysis in the notebook, or view the associated presentation.
+See the full analysis in the [notebook](https://github.com/acollins28/microsoft_films/blob/main/Microsoft_Project/movie_analysis.ipynb), or view the associated [presentation](https://github.com/acollins28/microsoft_films/blob/main/Microsoft_Project/Presentation.pdf).
 
 ## Repository Structure
 [Data](https://github.com/acollins28/microsoft_films/tree/main/Microsoft_Project/Data) <br />
