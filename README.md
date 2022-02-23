@@ -36,7 +36,7 @@ However, Microsoft wants to make a profit, not just a higher gross revenue. To p
 
 Beyond that, we know that having a well-known actor can help make a movie more popular. To help choose which popular actor Microsoft should hire, I compared lead actors to the average gross domestic revenue of the films they starred in (minimum of 10 films). The top option in this case is Sebastian Stan.
 
-![https://github.com/acollins28/microsoft_films/blob/main/Images/budget%20vs%20revenue%20adjusted.PNG](attachment:image.png)
+![graph](https://github.com/acollins28/microsoft_films/blob/main/Images/budget%20vs%20revenue%20adjusted.PNG?raw=true)
 
 ## Conclusions
 
