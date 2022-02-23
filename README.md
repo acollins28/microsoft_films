@@ -32,11 +32,11 @@ The chart below comapres the prodcution budgets and gross revenue of movies that
 
 However, Microsoft wants to make a profit, not just a higher gross revenue. To put the odds in their favor, they can make a movie that is a musical, or any of the other top options.
 
-![image.png](attachment:image.png)
+![graph2](https://github.com/acollins28/microsoft_films/blob/main/Images/roi%20by%20genre%20adjusted.PNG?raw=true)
 
 Beyond that, we know that having a well-known actor can help make a movie more popular. To help choose which popular actor Microsoft should hire, I compared lead actors to the average gross domestic revenue of the films they starred in (minimum of 10 films). The top option in this case is Sebastian Stan.
 
-![graph]
+![graph3](https://github.com/acollins28/microsoft_films/blob/main/Images/revenue%20by%20actor.PNG?raw=true)
 
 ## Conclusions
 
